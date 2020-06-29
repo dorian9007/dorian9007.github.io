@@ -1,13 +1,9 @@
 ## Dorians Blog
 ### Linux, Python und mehr
 
-Hier findet ihr unter anderem Einblicke in meine Forschungswelt in den Themenbereichen IT Sicherheit, Software Developement und vielen mehr.
+Hier findet ihr unter anderem Einblicke in meine Forschungswelt in den Themenbereichen IT Sicherheit, Software Developement und vielem mehr.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[Thema-1](www.google.de)
 
 ```markdown
 Syntax highlighted code block

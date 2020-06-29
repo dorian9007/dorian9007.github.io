@@ -7,6 +7,7 @@ Hier findet ihr unter anderem Einblicke in meine Forschungswelt in den Themenber
 
 Alles hier gezeigte und erlernte darf nicht gegen fremde Netzwerke, Websites oder Computer ohne Zustimmung des Eigentümers ausgeführt werden.
 Mit allem anderen macht man sich Strafbar. Die hier benutzten Tools und Wissen kann jedoch für die eigenen IT-Systeme verwendet werden.
+www.google.de
 
 <br>
 

@@ -1,6 +1,7 @@
-## Welcome to Dorians Blog
+## Dorians Blog
+### Linux, Python und mehr
 
-Here you can find latest researches from the topics Hacking, Web Dev, Software Dev and much more.
+Hier findet ihr unter anderem Einblicke in meine Forschungswelt in den Themenbereichen IT Sicherheit, Software Developement und vielen mehr t
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

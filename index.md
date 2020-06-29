@@ -3,6 +3,12 @@
 
 Hier findet ihr unter anderem Einblicke in meine Forschungswelt in den Themenbereichen IT Sicherheit, Software Developement und vielem mehr.
 
+### Worte der Warnung
+
+Alles hier gezeigte und erlernte darf nicht gegen fremde Netzwerke, Websites oder Computer ohne Zustimmung des Eigentümers ausgeführt werden.
+Mit allem anderen macht man sich Strafbar. Die hier benutzten Tools und Wissen kann jedoch für die eigenen IT-Systeme verwendet werden.
+
+
 [Thema-1](www.google.de)
 
 ```markdown

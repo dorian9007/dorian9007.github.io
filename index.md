@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Dorians Blog
 
-You can use the [editor on GitHub](https://github.com/dorian9007/blogtest/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here you can find latest researches from the topics Hacking, Web Dev, Software Dev and much more.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 

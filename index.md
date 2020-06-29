@@ -9,7 +9,7 @@ Alles hier gezeigte und erlernte darf nicht gegen fremde Netzwerke, Websites ode
 Mit allem anderen macht man sich Strafbar. Die hier benutzten Tools und Wissen kann jedoch für die eigenen IT-Systeme verwendet werden.
 
 
-[Execute command at boot - Linux](cmd-at-boot)
+[Execute command at boot - Linux](cmd-at-boot.txt)
 
 
 

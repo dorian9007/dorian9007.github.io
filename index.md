@@ -1,7 +1,7 @@
 <html>
-  <head>
+  <header>
     <link rel="icon" type="image/vnd.microsoft.icon" href="(/blog/favicon.ico">
-  </head>
+  </header>
 </html>
 
 ## Dorians Blog

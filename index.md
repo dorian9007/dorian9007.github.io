@@ -26,15 +26,15 @@ With that being said, have fun!
 
 ### [IT-Security](it-security.md)
 
-### Software Dev.
+### [Software Dev.](software-dev.md)
 
-### Server Tips & Tricks
+### [Server Tips & Tricks](server-stuff.md)
 
-### Hardware Stuff
+### [Hardware Stuff](hardware-stuff.md)
 
-### Trouble-Shooting
+### [Trouble Shooting](trouble-shooting.md)
 
-### General Stuff & Personal Words
+### [General Stuff & Personal Words](general-stuff.md)
 
 
 ```markdown

@@ -30,6 +30,8 @@ With that being said, have fun!
 
 ### Server Tips & Tricks
 
+### Hardware Stuff
+
 ### Trouble-Shooting
 
 ### General Stuff & Personal Words

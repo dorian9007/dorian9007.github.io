@@ -22,7 +22,14 @@ With that being said, have fun!
 <br>
 <br>
 
-### Directory
+## Blog-Topics:
+
+### IT-Security
+
+### Software Dev.
+
+### general stuff
+
 
 ```markdown
 Syntax highlighted code block

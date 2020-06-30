@@ -36,5 +36,8 @@ With that being said, have fun!
 
 ### [General Stuff & Personal Words](general-stuff.md)
 
+<br>
+<br>
+<br>
 
 _[Contact](contact.md)_

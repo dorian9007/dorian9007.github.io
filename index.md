@@ -30,9 +30,9 @@ With that being said, have fun!
 
 ### Server Tips & Tricks
 
-### trouble-shooting
+### Trouble-Shooting
 
-### general stuff
+### General Stuff
 
 
 ```markdown

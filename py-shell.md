@@ -50,4 +50,4 @@ groups=20(staff), 501(access_bpf), 12(everyone), 61(localaccounts), 79(_appserve
 
 In this example -l stands for listen and -p 80 for port 80. At this point it is worth mentioning to use standart ports like 80 for HTTP which usually are not getting blocked by the Firewall.
 
-Of course not everybody has Python already installed. For this case there are Compiler for Python like *py2exe*(Win), *cx_Freeze*(Cross-Plattform), *py2app*(OSX) or, *Nuitka*(Cross-Plattform).
+Of course not everybody has Python already installed. For this case there are Compiler for Python like *py2exe*(Win), *cx_Freeze*(Cross-Plattform), *py2app*(OSX), or *Nuitka*(Cross-Plattform).

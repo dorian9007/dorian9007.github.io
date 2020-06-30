@@ -40,6 +40,7 @@ else:
 For the victim to be able to properly connect with us, we need to launch a Server-Service like Netcat on our machine:
 <br>
 
+
 ```markdown
 root@kali:~# nc -l -p 80
 bash: no job control in this shell

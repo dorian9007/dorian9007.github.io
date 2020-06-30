@@ -32,7 +32,7 @@ With that being said, have fun!
 
 ### Trouble-Shooting
 
-### General Stuff
+### General Stuff & Personal Words
 
 
 ```markdown

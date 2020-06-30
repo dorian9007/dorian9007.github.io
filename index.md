@@ -1,6 +1,6 @@
 <html>
   <header>
-    <link rel="icon" type="image/vnd.microsoft.icon" href="(/favicon.ico">
+    <link rel="icon" type="image/vnd.microsoft.icon" href="(favicon.ico">
   </header>
 </html>
 

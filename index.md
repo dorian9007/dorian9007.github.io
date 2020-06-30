@@ -15,7 +15,7 @@ With that being said, have fun!
 <br>
 <br>
 
-### Newest Post
+### Newest Posts
 
 [Logical Operators](logical-operators.md) - 01.07.2020, 00:01 - Author: Dorian V.
   - _Operators are being used in programming and hacking. It is important to know the differences between these operators to fully dominate the situation._

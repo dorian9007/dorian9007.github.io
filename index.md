@@ -6,7 +6,7 @@ Here you will find insights into my research life in terms of IT-Security, Softw
 ### Words of Warning
 
 Everything shown on this blog is for educational purposes only. It is not alowed to use the tools and knowledge shown in this blog against
-stranger IT-Systems, Websites or Computers without the permission of their owner. If so you are making yourself punishable. However you are allowed
+stranger IT-Systems, Websites or Computers without the permission of their owner. If so, you are making yourself punishable. However you are allowed
 to use the tools and knowledge from this website to secure your own IT Landscape.
 
 With that being said, have fun!

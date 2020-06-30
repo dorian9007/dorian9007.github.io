@@ -15,7 +15,7 @@ With that being said, have fun!
 <br>
 
 ### Newest Post
-<br>
+
 
 [Execute command at boot - Linux](cmd-at-boot.md)
   - _how to automatically execute a command at boot on Linux with system.md_

@@ -1,29 +1,29 @@
 ## Dorians Blog
-### Linux, Python und mehr
+### Linux, Python and more
 
-Hier findet ihr unter anderem Einblicke in meine Forschungswelt in den Themenbereichen IT Sicherheit, Software Developement und vielem mehr.
+Here you will find insights into my research life in the topics IT-Security, Software Developement and much more.
 
-### Worte der Warnung
+### Words of Warning
 
-Alles hier gezeigte und erlernte darf nicht gegen fremde Netzwerke, Websites oder Computer ohne Zustimmung des Eigentümers ausgeführt werden.
-Mit allem anderen macht man sich Strafbar. Die hier benutzten Tools und Wissen kann jedoch für die eigenen IT-Systeme verwendet werden.
-www.google.de
+Everything shown on this blog is for educational purposes only. It is not alowed to use the tools and knowledge shown in this blog against
+stranger IT-Systems, Websites or Computers withour the permission of their owner. If so you are making yourself punishable. However you are allowed
+to use the tools and knowledge from this website to secure your own IT Landscape.
 
-In diesem Sinne, Viel Spaß!
+With that being said, have fun!
 
 <br>
 <br>
 
-### Neuster Beitrag
+### Newest Post
 <br>
 
 [Execute command at boot - Linux](cmd-at-boot.md)
-  - _wie man ein Befehl beim System Start automatisch ausführen lässt in Linux mit system.md_
+  - _how to automatically execute a command at boot on Linux with system.md_
 
 <br>
 <br>
 
-### Verzeichnis
+### Directory
 
 ```markdown
 Syntax highlighted code block

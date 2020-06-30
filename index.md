@@ -1,7 +1,7 @@
 ## Dorians Blog
 ### Linux, Python and more
 
-Here you will find insights into my research life in the topics IT-Security, Software Developement and much more.
+Here you will find insights into my research life in terms of IT-Security, Software Developement and much more.
 
 ### Words of Warning
 

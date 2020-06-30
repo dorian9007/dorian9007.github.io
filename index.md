@@ -1,4 +1,9 @@
-<link rel="icon" type="image/vnd.microsoft.icon" href="(favicon.ico">
+<html>
+  <head>
+    <link rel="icon" type="image/vnd.microsoft.icon" href="(favicon.ico">
+  </head>
+
+
 ## Dorians Blog
 ### Linux, Python and more
 
@@ -53,4 +58,4 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+</html>

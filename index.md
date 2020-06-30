@@ -17,8 +17,8 @@ With that being said, have fun!
 
 ### Newest Post
 
-[Execute command at boot - Linux](cmd-at-boot.md)
-  - _how to automatically execute a command at boot on Linux with system.md_
+[Python Multi-Platform Reverse Shell](py-shell.md)
+  - _This is an easy yet powerfull Reverseshell written in Python. With this Shell you can go through the victims Firewall since the connection is going from the inside to the outsite._
 
 <br>
 <br>

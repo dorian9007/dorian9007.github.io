@@ -15,7 +15,6 @@ In diesem Sinne, Viel Spaß!
 <br>
 
 ### Neuster Beitrag
-
 <br>
 
 [Execute command at boot - Linux](cmd-at-boot.md)

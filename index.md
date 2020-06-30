@@ -1,9 +1,3 @@
-<html>
-  <header>
-    <link rel="icon" type="image/vnd.microsoft.icon" href="(favicon.ico">
-  </header>
-</html>
-
 ## Dorians Blog
 ### Linux, Python and more
 

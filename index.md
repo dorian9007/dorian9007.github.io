@@ -9,7 +9,7 @@ Alles hier gezeigte und erlernte darf nicht gegen fremde Netzwerke, Websites ode
 Mit allem anderen macht man sich Strafbar. Die hier benutzten Tools und Wissen kann jedoch für die eigenen IT-Systeme verwendet werden.
 www.google.de
 
-Viel Spaß!
+In diesem Sinne, Viel Spaß!
 
 <br>
 

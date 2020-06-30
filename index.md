@@ -28,6 +28,10 @@ With that being said, have fun!
 
 ### Software Dev.
 
+### Server Tips & Tricks
+
+### trouble-shooting
+
 ### general stuff
 
 

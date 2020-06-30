@@ -42,3 +42,6 @@ With that being said, have fun!
 <br>
 
 _[Contact](contact.md)_
+
+<br>
+<br>

@@ -1,3 +1,4 @@
+<link rel="icon" type="image/vnd.microsoft.icon" href="(favicon.ico">
 ## Dorians Blog
 ### Linux, Python and more
 

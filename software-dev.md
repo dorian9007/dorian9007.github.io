@@ -1,3 +1,4 @@
+[<Index](index.md)
 # Software Dev.
 
 [Logical Operators](logical-operators.md) - 01.07.2020, 00:01 - Author: Dorian V.

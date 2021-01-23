@@ -1,4 +1,7 @@
 ## Dorians Blog
+
+![Image](r34.jpg)
+
 ### Linux, Python and more
 
 I like CyberSec, Front- & Backend Developing, Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs (r34, bntyplz).

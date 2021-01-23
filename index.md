@@ -33,7 +33,9 @@ With that being said, have fun!
 
 ### [Software Dev.](software-dev.md)
 
-### [Server Tips & Tricks](server-stuff.md)
+### [Backend Dev.](server-stuff.md)
+
+### [Frontend Dev.](server-stuff.md)
 
 ### [Hardware Stuff](hardware-stuff.md)
 

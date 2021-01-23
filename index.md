@@ -41,7 +41,7 @@ With that being said, have fun!
 
 ### [Trouble Shooting](trouble-shooting.md)
 
-### [General Stuff & Personal Words](general-stuff.md)
+### [General Things & Personal Words](general-stuff.md)
 
 <br>
 <br>

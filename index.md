@@ -1,8 +1,7 @@
 ## Dorians Blog
 ### Linux, Python and more
 
-Hi, my name is Dorian alias Chilli-D and I am a Computer Scientist and Technology-Hobbyist from Germany.
-Here you will find insights into my research life in terms of IT-Security, Software Developement and much more.
+I like CyberSec, Front- & Backend Developing, Python, Java, Drones, Self Driving Cars, ESP8266 and Bo3.
 
 ### Words of Warning
 

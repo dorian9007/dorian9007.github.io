@@ -1,5 +1,3 @@
-<h2>Personal Blog by Dorian</h2>
-
 ## Dorians Blog
 
 ![Image](r34.jpg)

@@ -8,7 +8,7 @@ going from the inside to the outsite.
 
 ### Tested on Python 3.6 under Kali Linux
 
-```markup
+```python
 #!/usr/bin/python
 import socket, subprocess, os, sys
 

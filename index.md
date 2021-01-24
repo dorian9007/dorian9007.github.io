@@ -1,9 +1,3 @@
-<head>
-  <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-  <title>
-    blog | dorian9007
-  </title>
- </head>
 
 ## Dorians Blog
 

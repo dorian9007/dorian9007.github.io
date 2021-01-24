@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 [< Index](index.md)
 
 # contact me

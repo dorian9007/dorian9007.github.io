@@ -1,7 +1,3 @@
----
-layout: default
----
-
 [< Index](index.md)
 
 # contact me
@@ -10,4 +6,3 @@ layout: default
 
 
 <img src="hacker.gif" width=1000>
-

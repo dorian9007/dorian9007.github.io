@@ -52,7 +52,7 @@ Let's get a cognitive load
 <br>
 <br>
 
-_[Contact](contact.md)_
+* [Contact](contact.md)
 
 <br>
 <br>

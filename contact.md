@@ -3,6 +3,8 @@
 # contact me
                    
 ## e-mail: dorianvoka2@web.de
+## twitter: @apple
+## instagram: @dorian9007
 
 
 <img src="hacker.gif" width=1000>

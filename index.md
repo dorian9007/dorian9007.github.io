@@ -15,7 +15,7 @@ Everything shown on this blog is for educational purposes only. It is not alowed
 stranger IT-Systems, Websites or Computers without the permission of their owner. If so, you are making yourself punishable. However, you are allowed
 to use the tools and knowledge from this website to secure your own IT Landscape.
 
-Lets get a cognitive load
+Let's get a cognitive load
 
 <br>
 <br>

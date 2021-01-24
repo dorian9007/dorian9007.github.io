@@ -52,7 +52,7 @@ Let's get a cognitive load
 <br>
 <br>
 
-* [Contact](contact.md)
+* [Contact](contact.html)
 
 <br>
 <br>

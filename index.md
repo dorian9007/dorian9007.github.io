@@ -1,4 +1,5 @@
 ## Dorians Blog
+<link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ![Image](r34.jpg)
 

@@ -1,5 +1,6 @@
 <link rel="shortcut icon" type="image/png" 
       href="{{ "favicon.png"  | absolute_url }}">
+
 ## Dorians Blog
 
 ![Image](r34.jpg)

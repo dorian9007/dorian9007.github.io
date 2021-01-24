@@ -43,7 +43,7 @@ Let's get a cognitive load
 
 * ### [[Frontend Dev.]](server-stuff.md)
 
-* ### [[Hardware Stuff]](hardware-stuff.md)
+* ### [[Hardware]](hardware-stuff.md)
 
 * ### [[Trouble Shooting]](trouble-shooting.md)
 

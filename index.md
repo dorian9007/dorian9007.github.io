@@ -35,19 +35,19 @@ Let's get a cognitive load
 
 ## Blog-Topics:
 
-### [IT-Security](it-security.md)
+* ### [IT-Security](it-security.md)
 
-### [Software Dev.](software-dev.md)
+* ### [Software Dev.](software-dev.md)
 
-### [Backend Dev.](server-stuff.md)
+* ### [Backend Dev.](server-stuff.md)
 
-### [Frontend Dev.](server-stuff.md)
+* ### [Frontend Dev.](server-stuff.md)
 
-### [Hardware Stuff](hardware-stuff.md)
+* ### [Hardware Stuff](hardware-stuff.md)
 
-### [Trouble Shooting](trouble-shooting.md)
+* ### [Trouble Shooting](trouble-shooting.md)
 
-### [General Things & Personal Words](general-stuff.md)
+* ### [General Things & Personal Words](general-stuff.md)
 
 <br>
 <br>

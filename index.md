@@ -41,7 +41,7 @@ Let's get a cognitive load
 
 * ### [[Backend Dev.]](server-stuff.md)
 
-* ### [[Frontend Dev.]](server-stuff.md)
+* ### [[Frontend Dev.]](frontend.md)
 
 * ### [[Hardware]](hardware-stuff.md)
 

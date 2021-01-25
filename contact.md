@@ -2,7 +2,7 @@
 
 # Contact me
                    
-### e-mail: dorianvoka2@web.de
+### e-mail: dorianvoka2@web.de [Send Email](mailto:dorianvoka2@web.de?subject=Contact)
 
 <a href="https://twitter.com/apple" class="twitter-follow-button" data-show-count="false">Follow @apple</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 

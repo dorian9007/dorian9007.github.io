@@ -4,7 +4,6 @@
                    
 ### e-mail: dorianvoka2@web.de
 
-<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/vaakash/socializer/f9f2916/css/socializer.min.css">
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
+<a href="https://twitter.com/apple" class="twitter-follow-button" data-show-count="false">Follow @apple</a> <script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
 <img src="hacker.gif" width=1000>

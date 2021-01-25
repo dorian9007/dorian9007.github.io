@@ -4,7 +4,9 @@
                    
 ### e-mail: dorianvoka2@web.de
 
-<script type="text/javascript" src="https://platform-api.sharethis.com/js/sharethis.js#property=600eb73177ac8800133c312b&product=inline-follow-buttons" async="async"></script>
+<ul class="share-buttons" data-source="simplesharingbuttons.com">
+  <li><a href="mailto:?subject=&body=:%20" target="_blank" title="Send email" onclick="window.open('mailto:dorianvoka2@web.de?subject=Contact' + encodeURIComponent(document.title) + '&body=' +  encodeURIComponent(document.URL)); return false;"><img alt="Send email" src="images/social_flat_rounded_rects_svg/Email.svg" /></a></li>
+</ul>
 
 
 <img src="hacker.gif" width=1000>

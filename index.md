@@ -1,5 +1,6 @@
 <link rel="shortcut icon" type="image/x-icon" 
       href="{{ "favicon.ico"  | absolute_url }}">
+      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
 
 ## Dorians Blog
 

@@ -1,7 +1,7 @@
-<link rel="shortcut icon" type="image/x-icon" 
-      href="{{ "favicon.ico"  | absolute_url }}">
-      <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
-
+<link rel="shortcut icon" type="image/png" 
+      href="{{ "favicon.png"  | absolute_url }}">
+      <link rel="shortcut icon" type="image/png" href="favicon.png">
+      
 ## Dorians Blog
 
 ![Image](r34.jpg)

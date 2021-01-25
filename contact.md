@@ -4,6 +4,7 @@
                    
 ### e-mail: dorianvoka2@web.de
 
-<div class="socializer" data-features="32px,circle,zoom,icon-white,pad" data-sites="twitter,email" data-meta-link="" data-meta-title="" data-meta-email="dorianvoka2@web.de" data-meta-twitter="twitter.com/apple" data-text="in"></div>
+<link rel="stylesheet" type="text/css" href="https://cdn.rawgit.com/vaakash/socializer/f9f2916/css/socializer.min.css">
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.1/css/all.css">
 
 <img src="hacker.gif" width=1000>

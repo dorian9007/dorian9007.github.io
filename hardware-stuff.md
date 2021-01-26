@@ -1,2 +1,2 @@
-[<Index](index.md)
-# Hardware Stuff & Hacks
+[< Index](index.md)
+# Hardware Projects

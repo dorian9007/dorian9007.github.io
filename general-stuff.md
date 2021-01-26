@@ -1,2 +1,2 @@
-[<Index](index.md)
-# General Stuff & Personal Words
+[< Index](index.md)
+# General Things & Personal Words

@@ -1,5 +1,5 @@
 # Logical Operators
-01.07.2020, 00:01 - Author: Dorian V.
+01.07.2020 - Author: @dorian9007
 
 Operators are being used in programming and hacking. It is important to know the differences between these operators to fully dominate the situation.
 

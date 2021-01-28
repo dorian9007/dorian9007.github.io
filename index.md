@@ -40,15 +40,11 @@ Let's get a cognitive load
 
 * ### [[Software Dev.]](software-dev.md)
 
-* ### [[Backend Dev.]](server-stuff.md)
-
-* ### [[Frontend Dev.]](frontend.md)
+* ### [[Web Dev.]](web-dev.md)
 
 * ### [[Hardware]](hardware-stuff.md)
 
-* ### [[Trouble Shooting]](trouble-shooting.md)
-
-* ### [[General Things & Personal Words]](general-stuff.md)
+* ### [[Writeups]](general-stuff.md)
 
 <br>
 <br>

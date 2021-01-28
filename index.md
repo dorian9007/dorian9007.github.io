@@ -8,7 +8,7 @@
 
 ### Linux, Python and more
 
-I like CyberSec, Front- & Backend Developing, Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz
+I like CyberSec, Web Dev., Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz
 
 ### Words of Warning
 

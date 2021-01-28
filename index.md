@@ -1,8 +1,10 @@
 
       
-## Dorians Blog
+# Dorians (aka dorian9007)
 
 ![Image](r34.jpg)
+
+## about me 
 
 ### Linux, Python and more
 

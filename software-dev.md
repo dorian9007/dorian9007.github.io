@@ -1,5 +1,5 @@
-[<Index](index.md)
-# Software Dev.
+[< Index](index.md)
+# Topic: Software Dev.
 
 [Logical Operators](logical-operators.md) - 01.07.2020 - Author: @dorian9007
   - _Operators are being used in programming and hacking. It is important to know the differences between these operators to fully dominate the situation._

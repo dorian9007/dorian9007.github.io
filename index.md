@@ -34,15 +34,15 @@ to use the tools and knowledge from this website to secure your own IT Landscape
 
 ## $ ls -la /topics
 
-### -rw-r--r-- root [it-security](it-security.md)
+ -rw-r--r-- root [it-security](it-security.md)
 
-### -rw-r--r-- root [software-dev.](software-dev.md)
+ -rw-r--r-- root [software-dev.](software-dev.md)
 
-### -rw-r--r-- root [web-dev.](web-dev.md)
+ -rw-r--r-- root [web-dev.](web-dev.md)
 
-### -rw-r--r-- root [hardware](hardware-stuff.md)
+ -rw-r--r-- root [hardware](hardware-stuff.md)
 
-### -rw-r--r-- root [writeups](general-stuff.md)
+ -rw-r--r-- root [writeups](general-stuff.md)
 
 -rw-r--r-- root [.contact](contact.md)
 

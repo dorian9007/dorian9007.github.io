@@ -20,4 +20,5 @@
 
 At first glance the site doesnt seem to have anything special like inputs or other ordinary things that you might expect.
 The only thing that might be interesting  is a 5 second delay when clicking on a link.
+
 ![Image](/assets/assets-intigriti/xss-screenshot1.jpg)

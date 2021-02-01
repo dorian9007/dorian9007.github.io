@@ -1,8 +1,8 @@
 
-# Intigriti January XSS Challenge - Solution
+# Intigriti's January XSS Challenge - Solution
  This is a writeup of the XSS Challenge from Intigriti. I was not able to solve it completely in the given time, but got pretty far. It was interesting enough for me to do a writeup.
 
-[https://challenge-0121.intigriti.io/](https://challenge-0121.intigriti.io/) <br>
+[challenge-0121.intigriti.io](https://challenge-0121.intigriti.io/) <br>
 [script.js](https://raw.githubusercontent.com/dorian9007/dorian9007.github.io/master/assets/intigriti1-script.js)
 
 ![Image](/assets/intigritixss.jpg)
@@ -18,7 +18,7 @@
 
 ### First things first:
 
-At first glance the site doesnt seem to have anything special like inputs or other ordinary things that you might expect.
+At first glance the site doesn't seem to have anything special like inputs or other ordinary things that you might expect.
 The only thing that might be interesting  is a 5 second delay when clicking on a link.
 
 ![Image](/assets/assets-intigriti/xss-screenshot1.jpg)

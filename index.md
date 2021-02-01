@@ -19,7 +19,7 @@ to use the tools and knowledge from this website to secure your own IT Landscape
 <br>
 <br>
 
-### Newest Posts
+### newest posts
 
 > [Logical Operators](logical-operators.md) - 01.07.2020 - Author: @dorian9007
 >  - _Operators are being used in programming and hacking. It is important to know the differences between these operators to fully dominate the situation._

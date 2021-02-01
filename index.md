@@ -3,19 +3,18 @@
 
 ![Image](r34.jpg)
 
-## About me 
-
 ### Linux, Python and more
+
+## $ car 'about'
 
 I like CyberSec, Web Dev., Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz
 
-### Words of Warning
-
+### disclaimer
 Everything shown on this blog is for educational purposes only. It is not alowed to use the tools and knowledge shown in this blog against
 stranger IT-Systems, Websites or Computers without the permission of their owner. If so, you are making yourself punishable. However, you are allowed
 to use the tools and knowledge from this website to secure your own IT Landscape.
 
-Let's get a cognitive load
+<!--cognitive-load: true-->
 
 <br>
 <br>

@@ -1,10 +1,10 @@
 # Python Multi-Platform Reverse Shell
 30.06.2020 - Author: @dorian9007
 
-
 This is an easy yet powerfull Reverseshell written in Python. With this Shell you can go through the victims Firewall since the connection is 
 going from the inside to the outsite.
 
+![Image](/assets/shell.png)
 
 ### Tested on Python 3.6 under Kali Linux
 

@@ -1,5 +1,5 @@
       
-## $ Dorian(aka dorian9007)
+## dorian@tpx320:~$
 
 ![Image](r34.jpg)
 

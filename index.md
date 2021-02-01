@@ -35,7 +35,7 @@ Let's get a cognitive load
 
 ## $ ls -la
 
-* ### [[-rw-r--r-- root it-security]](it-security.md)
+* ### [-rw-r--r-- root it-security](it-security.md)
 
 * ### [[Software Dev.]](software-dev.md)
 

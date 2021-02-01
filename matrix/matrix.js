@@ -2,7 +2,7 @@ var canvas = document.body.appendChild( document.createElement( 'canvas' ) ),
     context = canvas.getContext( '2d' );
 context.globalCompositeOperation = 'lighter';
 canvas.width = auto;
-canvas.height = auto;
+canvas.height = 800;
 draw();
 
 var textStrip = ['诶', '比', '西', '迪', '伊', '吉', '艾', '杰', '开', '哦', '屁', '提', '维'];

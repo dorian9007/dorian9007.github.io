@@ -7,7 +7,7 @@
 
 ### $ cat 'about'
 
-I like CyberSec, Web Dev., Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz
+I like CyberSec, Linux(debian based), Web Dev., Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz
 
 ### disclaimer
 Everything shown on this blog is for educational purposes only. It is not alowed to use the tools and knowledge shown in this blog against

@@ -45,6 +45,6 @@ Let's get a cognitive load
 
 * ### [[Writeups]](general-stuff.md)
 
-* [Contact](contact.md)
+* [.contact](contact.md)
 
 <br>

@@ -33,7 +33,7 @@ Let's get a cognitive load
 <br>
 <br>
 
-## Blog-Topics:
+## $ ls -la:
 
 * ### [[IT-Security]](it-security.md)
 
@@ -45,10 +45,6 @@ Let's get a cognitive load
 
 * ### [[Writeups]](general-stuff.md)
 
-<br>
-<br>
-
 * [Contact](contact.md)
 
-<br>
 <br>

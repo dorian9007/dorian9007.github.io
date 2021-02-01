@@ -37,13 +37,13 @@ Let's get a cognitive load
 
 * ### -rw-r--r-- root [it-security](it-security.md)
 
-* ### [[Software Dev.]](software-dev.md)
+* ### -rw-r--r-- root [Software Dev.](software-dev.md)
 
-* ### [[Web Dev.]](web-dev.md)
+* ### -rw-r--r-- root [[Web Dev.](web-dev.md)
 
-* ### [[Hardware]](hardware-stuff.md)
+* ### -rw-r--r-- root [Hardware](hardware-stuff.md)
 
-* ### [[Writeups]](general-stuff.md)
+* ### -rw-r--r-- root [Writeups](general-stuff.md)
 
 * [.contact](contact.md)
 

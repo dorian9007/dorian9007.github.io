@@ -1,7 +1,7 @@
 var canvas = document.body.appendChild( document.createElement( 'canvas' ) ),
     context = canvas.getContext( '2d' );
 context.globalCompositeOperation = 'lighter';
-canvas.width = auto;
+canvas.width = 1500;
 canvas.height = 800;
 canvas.align = center;
 draw();

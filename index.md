@@ -5,7 +5,7 @@
 
 ### Linux, Python and more
 
-## $ car 'about'
+## $ cat 'about'
 
 I like CyberSec, Web Dev., Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz
 

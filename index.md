@@ -39,7 +39,7 @@ Let's get a cognitive load
 
 * ### -rw-r--r-- root [Software Dev.](software-dev.md)
 
-* ### -rw-r--r-- root [[Web Dev.](web-dev.md)
+* ### -rw-r--r-- root [Web Dev.](web-dev.md)
 
 * ### -rw-r--r-- root [Hardware](hardware-stuff.md)
 

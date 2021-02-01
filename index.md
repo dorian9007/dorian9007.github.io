@@ -33,7 +33,7 @@ Let's get a cognitive load
 <br>
 <br>
 
-## $ ls -la
+## $ ls -la /topics
 
 ### -rw-r--r-- root [it-security](it-security.md)
 

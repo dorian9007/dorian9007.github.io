@@ -3,7 +3,7 @@
 
 ![Image](r34.jpg)
 
-## Linux, Python and more
+<!--## Linux, Python and more-->
 
 ### $ cat 'about'
 

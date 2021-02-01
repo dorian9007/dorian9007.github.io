@@ -44,6 +44,6 @@ to use the tools and knowledge from this website to secure your own IT Landscape
 
 ### -rw-r--r-- root [writeups](general-stuff.md)
 
-[.contact](contact.md)
+-rw-r--r-- root [.contact](contact.md)
 
 <br>

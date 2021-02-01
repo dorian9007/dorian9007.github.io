@@ -3,7 +3,6 @@ var canvas = document.body.appendChild( document.createElement( 'canvas' ) ),
 context.globalCompositeOperation = 'lighter';
 canvas.width = 1500;
 canvas.height = 800;
-canvas.align = center;
 draw();
 
 var textStrip = ['诶', '比', '西', '迪', '伊', '吉', '艾', '杰', '开', '哦', '屁', '提', '维'];

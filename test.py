@@ -5,5 +5,5 @@ server.login("maxmusterman123211@gmail.com", "maxmustermann")
 server.sendmail(
   "maxmusterman123211@gmail.com", 
   "dorianvoka2@web.de", 
-  "autmated email via python script:)")
+  "automated email via python script")
 server.quit()

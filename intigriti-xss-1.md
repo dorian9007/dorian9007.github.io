@@ -24,4 +24,7 @@ The only thing that might be interesting  is a 5 second delay when clicking on a
 ![Image](/assets/assets-intigriti/xss-screenshot1.jpg)
 
 
-### Lets have a closer look🕵🏻‍♂️
+### Lets have a closer look🕵🏻‍♂️:
+
+In line 2-3 we see a GET-Request check for the Parameter "r".
+The value of "r" gets assigned to the property "r" of the windows object.

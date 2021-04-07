@@ -26,5 +26,5 @@ The only thing that might be interesting  is a 5 second delay when clicking on a
 
 ### Lets have a closer look🕵🏻‍♂️:
 
-In line 2-3 we see a GET-Request check for the Parameter "r".
-The value of "r" gets assigned to the property "r" of the windows object.
+In line 2-3 we see a GET-Request check for the Parameter _"r"_.
+The value of _"r"_ gets assigned to the property _"r"_ of the _window_ object.

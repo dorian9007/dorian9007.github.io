@@ -1,4 +1,4 @@
-theme: jekyll-theme-hacker
+# theme: jekyll-theme-hacker
 show_downloads: false
 #avatar: "gtr.png"
 author: "dorian9007"
@@ -6,4 +6,4 @@ plugins:
   - jekyll-seo-tag
 # jekyll-theme-hacker
 # jekyll-theme-slate
-# jekyll-theme-cayman
+theme: jekyll-theme-cayman

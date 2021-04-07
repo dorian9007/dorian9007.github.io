@@ -30,6 +30,6 @@ In line 2-3 we see a GET-Request check for the Parameter _"r"_.
 The value of _"r"_ gets assigned to the property _"r"_ of the _window_ object.
 
 ```javascript
-  window.href = new URL(window.location.href);
-  window.r = href.searchParams.get("r");
+  2| window.href = new URL(window.location.href);
+  3| window.r = href.searchParams.get("r");
 ```

@@ -28,3 +28,8 @@ The only thing that might be interesting  is a 5 second delay when clicking on a
 
 In line 2-3 we see a GET-Request check for the Parameter _"r"_.
 The value of _"r"_ gets assigned to the property _"r"_ of the _window_ object.
+
+```javascript
+  window.href = new URL(window.location.href);
+  window.r = href.searchParams.get("r");
+```

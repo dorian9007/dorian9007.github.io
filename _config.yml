@@ -6,4 +6,4 @@ plugins:
   - jekyll-seo-tag
 # jekyll-theme-hacker
 # jekyll-theme-slate
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal

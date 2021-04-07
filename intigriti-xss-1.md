@@ -3,7 +3,7 @@
  This is a writeup of the XSS Challenge from Intigriti. I was not able to solve it completely in the given time, but got pretty far. It was interesting enough for me to do a writeup.
 
 [challenge-0121.intigriti.io](https://challenge-0121.intigriti.io/) <br>
-[script.js](https://raw.githubusercontent.com/dorian9007/dorian9007.github.io/master/assets/intigriti1-script.js)
+[script.js](https://raw.githubusercontent.com/dorian9007/dorian9007.github.io/master/assets/intigriti1-script.js) (or at end of page)
 
 ![Image](/assets/intigritixss.jpg)
 
@@ -32,4 +32,59 @@ The value of _"r"_ gets assigned to the property _"r"_ of the _window_ object.
 ```javascript
   2| window.href = new URL(window.location.href);
   3| window.r = href.searchParams.get("r");
+```
+
+
+
+
+--------end---------
+```javascript
+
+  window.href = new URL(window.location.href);
+  window.r = href.searchParams.get("r");
+  //Remove malicious values from href, redirect, referrer, name, ...
+  ["document", "window"].forEach(function(interface){
+    Object.keys(window[interface]).forEach(function(globalVariable){
+        if((typeof window[interface][globalVariable] == "string") && (window[interface][globalVariable].indexOf("javascript") > -1)){
+            delete window[interface][globalVariable];
+        }
+    });
+  });
+  
+  window.onload = function(){
+    var links = document.getElementsByTagName("a");
+    for(var i = 0; i < links.length; i++){
+      links[i].onclick = function(e){
+        e.preventDefault();
+        safeRedirect(e.target.href);
+      }
+    }
+  }
+  if(r != undefined){
+    safeRedirect(r);
+  }
+  function safeRedirect(url){
+    if(!url.match(/[<>"' ]/)){
+      window.setTimeout(function(){
+          if(url.startsWith("https://")){
+            window.location = url;
+          }
+          else{ //local redirect
+            window.location = window.origin + "/" + url;
+          }
+          window.setTimeout(function(){
+            document.getElementById("error").style.display = "block";
+          }, 1000);
+      }, 5000);
+      document.getElementById("popover").innerHTML = `
+        <p>You're being redirected to ${url} in 5 seconds...</p>
+        <p id="error" style="display:none">
+          If you're not being redirected, click <a href=${url}>here</a>
+        </p>.`;
+    }
+    else{
+      alert("Invalid URL.");
+    }
+  }
+
 ```

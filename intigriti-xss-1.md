@@ -88,3 +88,4 @@ The value of _"r"_ gets assigned to the property _"r"_ of the _window_ object.
   }
 
 ```
+https://holme-sec.medium.com/solution-for-intigritis-0121-challenge-1b59ab942d99

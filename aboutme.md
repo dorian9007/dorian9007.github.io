@@ -6,4 +6,8 @@
 
 languages: English(fluent), German(native)
 
-IT Skills: Python, JavaScript, Java, Php, MySQL, Debian Linux, Html & Css, Web Applikation Penetration Testing
+IT Skills: Python, JavaScript, Java, Php, MySQL, Debian Linux, Html & Css, Web Application Penetration Testing
+
+### Education Details
+
+Gymnasium Rahlstedt, Hamburg (currently)

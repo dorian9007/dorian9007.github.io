@@ -4,9 +4,11 @@
 
 ## About me
 
-languages: English(fluent), German(native)
+languages:
+English(fluent), German(native)
 
-IT Skills: Python, JavaScript, Java, Php, MySQL, Debian Linux, Html & Css, Web Application Penetration Testing
+IT Skills:
+Python, JavaScript, Java, Php, MySQL, Debian Linux, Html & Css, Web Application Penetration Testing
 
 ### Education Details
 

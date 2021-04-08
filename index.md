@@ -7,6 +7,8 @@
 
 ### $ cat 'about'
 
+[aboutme.html](about.md)
+
 <!--I like CyberSec, Linux(debian based), Web Dev., Python, Java, Drones, Self Driving Cars, ESP8266 and Nissan GT-Rs #bntyplz-->
 
 ### disclaimer

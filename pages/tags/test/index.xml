@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>test on Cr0w&#39;s Place</title>
+    <link>https://cr0wtom.github.io/tags/test/</link>
+    <description>Recent content in test on Cr0w&#39;s Place</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Thomas Sermpinis</copyright>
+    <lastBuildDate>Thu, 07 Nov 2019 16:56:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://cr0wtom.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Lets fill this section</title>
+      <link>https://cr0wtom.github.io/projects/my-first-post/</link>
+      <pubDate>Thu, 07 Nov 2019 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/my-first-post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>https://cr0wtom.github.io/projects/my-second-post/</link>
+      <pubDate>Thu, 07 Nov 2019 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/my-second-post/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

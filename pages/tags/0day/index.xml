@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0day on Cr0w&#39;s Place</title>
+    <link>https://cr0wtom.github.io/tags/0day/</link>
+    <description>Recent content in 0day on Cr0w&#39;s Place</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Thomas Sermpinis</copyright>
+    <lastBuildDate>Tue, 11 May 2021 12:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/0day/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>0day - [CVE-2021-29507] Improper Input Validation leads to buffer overflow in dlt-daemon</title>
+      <link>https://cr0wtom.github.io/projects/0day-dlt-daemon/</link>
+      <pubDate>Tue, 11 May 2021 12:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/0day-dlt-daemon/</guid>
+      <description>Title: Improper Input Validation leads to buffer overflow in dlt-daemon
+Date: 12/05/2021
+CVE-ID: CVE-2021-29507
+Author: Thomas Sermpinis
+Versions: 2.10.0 &amp;lt; version &amp;lt;= 2.18.6
+Package URL: https://github.com/GENIVI/dlt-daemon/
+Tested on: dlt-daemon 2.18.6
+The dlt-daemon includes a configuration file load functionality (-c) which is vulnerable to a buffer overflow vulnerability and allows a malicious user to supply a specially crafted configuration file which results in a segmentation fault after improper validation of the file content.</description>
+    </item>
+    
+    <item>
+      <title>0day - [CVE-2020-26800] Stack based buffer overflow while parsing JSON file in Aleth C&#43;&#43; Ethereum client</title>
+      <link>https://cr0wtom.github.io/projects/0day-aleth/</link>
+      <pubDate>Mon, 11 Jan 2021 12:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/0day-aleth/</guid>
+      <description>Title: Stack based buffer overflow while parsing JSON file in Aleth C++ Ethereum client
+Date: 11/01/2021
+CVE-ID: CVE-2020-26800
+Author: Thomas Sermpinis
+Versions: &amp;lt;= 1.8.0
+Package URL: https://github.com/ethereum/aleth
+Tested on: Aleth C++ Ethereum Client 1.8.0
+An attacker can supply a specially crafted config.json file, consisting of 3764 left square brackets or more, which results in segmentation fault by the application. This immediately results in Denial of Service, and with more advanced exploitation it can have further implications, with higher severity security issues.</description>
+    </item>
+    
+    <item>
+      <title>0day - [CVE-2020-24807] File Type Restriction Bypass in Socket.io-file NPM module</title>
+      <link>https://cr0wtom.github.io/projects/0day-socketio_2/</link>
+      <pubDate>Tue, 08 Sep 2020 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/0day-socketio_2/</guid>
+      <description>Title: File Type Restriction Bypass in Socket.io-file NPM module
+Date: 31/07/2020
+CVE-ID: CVE-2020-24807
+Author: Thomas Sermpinis
+Versions: &amp;lt;= 2.0.31
+Package URL: -
+Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
+All versions of socket.io-file are vulnerable to a file restriction bypass. The validation for valid file types only happens on the client-side, which allows an attacker to intercept the Websocket request post-validation and alter the name value to upload any file types.</description>
+    </item>
+    
+    <item>
+      <title>0day - [CVE-2020-15779] Path Traversal in Socket.io-file NPM module Functionality</title>
+      <link>https://cr0wtom.github.io/projects/0day-socketio/</link>
+      <pubDate>Sun, 07 Jun 2020 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/0day-socketio/</guid>
+      <description>Title: Path Traversal in Socket.io-file NPM module
+Date: 18/05/2020
+CVE-ID: 2020-15779
+Author: Thomas Sermpinis
+Versions: &amp;lt;= 2.0.31
+Package URL: https://www.npmjs.com/package/socket.io-file
+Tested on: node v10.19.0, Socket.io-file v2.0.31, socket.io v2.3.0
+All versions of socket.io-file are vulnerable to Path Traversal. The package fails to sanitize user input and uses it to generate the file upload paths. The socket.io-file::createFile message contains a name option that is passed directly to path.join(). It is possible to upload files to arbitrary folders on the server by sending relative paths on the name value, such as .</description>
+    </item>
+    
+  </channel>
+</rss>

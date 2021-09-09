@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hakin9 on Cr0w&#39;s Place</title>
+    <link>https://cr0wtom.github.io/tags/hakin9/</link>
+    <description>Recent content in Hakin9 on Cr0w&#39;s Place</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>Thomas Sermpinis</copyright>
+    <lastBuildDate>Sun, 07 Oct 2018 16:56:46 +0100</lastBuildDate><atom:link href="https://cr0wtom.github.io/tags/hakin9/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hakin9 - SBC: Penetration Testing with Raspberry Pi</title>
+      <link>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</link>
+      <pubDate>Sun, 07 Oct 2018 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/sbc-penetration-testing-with-raspberry-pi-hakin9/</guid>
+      <description>Instructor in the 4 week course for Hakin9 Media, in the topic of penetration testing with Raspberry Pi and other security related hardware.
+See project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Attack and Defense in Blockchain Technologies</title>
+      <link>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</link>
+      <pubDate>Sat, 07 Apr 2018 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9/</guid>
+      <description>Instructor in the 4 week course for Hakin9 Media, in Blockchain security topics.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Attack and Defense in Blockchain Technologies [Book]</title>
+      <link>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9ebook/</link>
+      <pubDate>Sat, 07 Apr 2018 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/attack-and-defense-in-blockchain-technologies-hakin9ebook/</guid>
+      <description>Alongside the 4 week course for Hakin9 Media, in Blockchain security topics, an eBook was created with all the content of the course.
+See Project or buy the Book.</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Bypassing Web Application Firewalls</title>
+      <link>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</link>
+      <pubDate>Wed, 07 Dec 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine.
+See project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Bypassing Web Application Firewalls [Book]</title>
+      <link>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9ebook/</link>
+      <pubDate>Wed, 07 Dec 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/bypassing-web-application-firewalls-hakin9ebook/</guid>
+      <description>Alongside my 4 week topic, &amp;ldquo;Bypassing Web Application Firewalls&amp;rdquo;, hosted by the Hakin9 Magazine, an eBook was created with all the content of the course.
+See Project or buy the Book.</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Web Application Hacking: Advanced SQL Injection and Data Store Attacks</title>
+      <link>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</link>
+      <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Web Application Hacking: Advanced SQL Injection and Data Store Attacks [Book]</title>
+      <link>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9ebook/</link>
+      <pubDate>Wed, 07 Sep 2016 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/web-application-hacking-advanced-sql-injection-and-data-store-attacks-hakin9ebook/</guid>
+      <description>Alongside my 4 week topic, &amp;ldquo;Web Application Hacking: Advanced SQL Injection and Data Store Attacks&amp;rdquo;, hosted by the eForensics Magazine, an eBook was created with all the content of the course.
+See Project or buy the Book.</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Penetration Testing with Kali 2.0</title>
+      <link>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</link>
+      <pubDate>Tue, 07 Jul 2015 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/pentesting-with-kali2-hakin9/</guid>
+      <description>Co-Workshop instructor in the topic &amp;ldquo;Penetration Testing with Kali 2.0&amp;rdquo; due to the release of the second version of the Kali OS, hosted by the PenTest Magazine.
+See project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Android Malware Analysis</title>
+      <link>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</link>
+      <pubDate>Wed, 07 Jan 2015 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/android-malware-analysis-hakin9/</guid>
+      <description>Workshop Instructor in the 4 week topic, &amp;ldquo;Android Malware Analysis&amp;rdquo;, hosted by the eForensics Magazine.
+See Project</description>
+    </item>
+    
+    <item>
+      <title>Hakin9 - Penetration Testing with Android Devices</title>
+      <link>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</link>
+      <pubDate>Wed, 07 Jan 2015 16:56:46 +0100</pubDate>
+      
+      <guid>https://cr0wtom.github.io/projects/pentesting-with-android-hakin9/</guid>
+      <description>Workshop Instructor in the 10 week topic, &amp;ldquo;Penetration Testing with Android Devices&amp;rdquo;, hosted by the Pentest Magazine.
+You can find more here.</description>
+    </item>
+    
+  </channel>
+</rss>
